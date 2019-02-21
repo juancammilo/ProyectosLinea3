@@ -10,5 +10,8 @@ package com.mycompany.proyectocodigocesar;
  * @author Jkammilo
  */
 public class Principal {
-    //Se cambio desde netbeans
+    public static void main(String [] args){
+        Mensaje mensaje1 = new Mensaje();
+        
+    }
 }
