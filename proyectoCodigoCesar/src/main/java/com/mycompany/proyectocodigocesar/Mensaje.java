@@ -8,8 +8,9 @@ package com.mycompany.proyectocodigocesar;
 import java.util.Scanner;
 
 /**
- * Lo que hace la clase ???
+ * Esta clase mueve las posiciones del mensaje letra por letra, segun la clave, y si quiere hacia adelante o atras.
  * @author JuanCamilo
+ * @author Gabrielccgg
  * @version 1.0
  */
 public final class Mensaje {
